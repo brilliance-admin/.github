@@ -8,7 +8,7 @@ _Some call it heavenly in its brilliance._
 
 ### [Live Demo](https://brilliance-admin.com/) | [Python Backend](https://github.com/brilliance-admin/backend-python) | [Documentation](https://docs.brilliance-admin.com/)
 
-  <img src="https://github.com/brilliance-admin/backend-python/blob/main/screenshots/04.02.2026/3-devices-black.png?raw=true"
+  <img src="https://raw.githubusercontent.com/brilliance-admin/.github/refs/heads/main/screenshots/04.02.2026/all-devices-black.png"
        alt="Preview">
 
 </div>
