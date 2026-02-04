@@ -16,5 +16,6 @@ _Some call it heavenly in its brilliance._
 ## Screenshots
 
 <div align="center"><img src="https://github.com/brilliance-admin/.github/blob/main/screenshots/04.02.2026/login-white.png?raw=true"/></div>
-<div align="center"><img src="https://github.com/brilliance-admin/.github/blob/main/screenshots/04.02.2026/table-white.png?raw=true"/></div>
 <div align="center"><img src="https://github.com/brilliance-admin/.github/blob/main/screenshots/04.02.2026/dashboard-white.png?raw=true"/></div>
+<div align="center"><img src="https://github.com/brilliance-admin/.github/blob/main/screenshots/04.02.2026/dashboard-black.png?raw=true"/></div>
+<div align="center"><img src="https://github.com/brilliance-admin/.github/blob/main/screenshots/04.02.2026/table-white.png?raw=true"/></div>
